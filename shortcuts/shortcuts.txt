@@ -1,1 +1,4 @@
 
+https://medium.com/@biniyambelayneh376/building-a-simple-elt-data-pipeline-71f69cd0ad89
+
+https://medium.com/@le.oasis/data-engineering-for-beginners-data-lake-and-data-warehousing-2440a91f5990?source=read_next_recirc---three_column_layout_sidebar------0---------------------b4dc2b6d_9ed1_43fb_89bc_22de55dbc484-------
