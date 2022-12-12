@@ -1,9 +1,8 @@
 To view the data type of a column in a table in SQL Server, you can use the following syntax:
 
-Copy code
-SELECT COLUMN_NAME, DATA_TYPE
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = 'table_name';
+SELECT COLUMN_NAME, DATA_TYPE  <br> 
+FROM INFORMATION_SCHEMA.COLUMNS  <br> 
+WHERE TABLE_NAME = 'table_name';  <br> 
 
 This will return a list of columns and their data types for the specified table. For example, if you have a table named "students" and you want to view the data types of its columns, you can use the following statement:
 
